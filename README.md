@@ -4,7 +4,7 @@
   <a href="https://github.com/rladpwl35/rladpwl35/labels/idea">
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=flat&&logoColor=white"/>
   </a>
-  <a href="https://daffodil-meteor-e7d.notion.site/13b18ac4bbbb8007bf94e279b884eead">
+  <!-- <a href="https://daffodil-meteor-e7d.notion.site/13b18ac4bbbb8007bf94e279b884eead">
     <img src="https://img.shields.io/badge/My_CV%20-%234FC08D.svg?&style=flat&&color=fedcba&&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
